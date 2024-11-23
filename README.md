@@ -1,4 +1,4 @@
-# Deerisle Types Editor
+# Deerisle Types Cleaner
 
 A Windows Forms application for batch editing DayZ mod XML type files, specifically designed for the Deerisle mod configuration.
 
