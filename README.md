@@ -20,6 +20,7 @@ A Windows Forms application for batch editing DayZ mod XML type files, specifica
   - Explosives
   - Loot Dispatch
   - KMUCKeycard
+- Built-in protection: Items with lifetime values over 20000 are preserved to protect flag-protected items
 
 ## Usage
 
